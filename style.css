@@ -10,4 +10,6 @@ div {
 }
 span {
   color: purple;
+  text-decoration: underline;
+  text-transform: uppercase;
 }
